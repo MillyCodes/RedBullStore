@@ -1,0 +1,48 @@
+body {
+  background-color: #ffffff;
+  margin: auto; }
+
+header {
+  background: url("https://cdn.shopify.com/s/files/1/0878/3546/t/2/assets/slide_4_image_1000x.progressive.jpg?17984975504013204840") no-repeat fixed center top;
+  height: 400px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 20px; }
+  header nav {
+    position: fixed;
+    width: 100%;
+    background-color: #fff;
+    box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.15);
+    z-index: 1; }
+    header nav img {
+      height: 4%; }
+
+#container {
+  margin: 1% auto;
+  max-width: 100%;
+  display: flex;
+  flex-flow: row-reverse;
+  flex-wrap: wrap;
+  justify-content: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 20px; }
+
+img {
+  max-width: 97%; }
+
+.product-container {
+  width: 27%;
+  margin: 1%;
+  padding: 1%;
+  border: 1px solid #333399;
+  -moz-border-radius: 5%;
+  -webkit-border-radius: 5%;
+  border-radius: 5%;
+  background-color: #ffffff;
+  opacity: .8; }
+  .product-container:hover {
+    opacity: 1; }
+  .product-container h3, .product-container h5 {
+    line-height: 1em;
+    margin: 0px; }
+
+/*# sourceMappingURL=style.css.map */
