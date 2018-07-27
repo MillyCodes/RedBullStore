@@ -1,6 +1,6 @@
 # RedBullStore
 
-Played with Red Bull Store API to create my own responsive version. Built with API, OOP & SASS,
+In this project the Red Bull Store API ws used to create my own responsive version. Built with API, OOP & SASS. The purpose of this page was to inspect and understand how to work with public APIs and object oriented Javascript and practice SASS principles as well.
 
 ## Built With
 
