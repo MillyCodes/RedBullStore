@@ -17,6 +17,6 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## Authors
 
-* **Mildred Rodriguez** - *ALl work and coding* - [MillyCodes](https://github.com/MillyCodes)
+* **Mildred Rodriguez** - *All work and coding* - [MillyCodes](https://github.com/MillyCodes)
 
-See also the my [LinkdIn](http://linkedin.com/in/millyrodriguez) for more on me.
+See also my [LinkdIn](http://linkedin.com/in/millyrodriguez) page for more on me.
